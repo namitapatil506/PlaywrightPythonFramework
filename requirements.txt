@@ -1,0 +1,11 @@
+playwright
+pytest-xdist
+pytest-html
+allure-pytest
+pytest-rerunfailures
+openpyxl
+Faker
+python-slugify
+
+# to install --> pip install -r requirememnts.txt
+# playwright install
