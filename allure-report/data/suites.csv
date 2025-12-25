@@ -1,7 +1,7 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4756","test_valid_user_login","Tests","2025-12-24","passed","2025-12-24","","test_login","",""
 "
 Automated Test Case: Verify that login fails for invalid user credentials.
 ","1039","test_invalid_user_login","Tests","2025-12-24","passed","2025-12-24","","test_login","",""
-"","4756","test_valid_user_login","Tests","2025-12-24","passed","2025-12-24","","test_login","",""
 "","586","test_product_search","Tests","2025-12-24","passed","2025-12-24","","test_product_search","",""
 "","2957","test_user_registration","Tests","2025-12-24","passed","2025-12-24","","test_user_registration","",""
