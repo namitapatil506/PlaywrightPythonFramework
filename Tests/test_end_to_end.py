@@ -9,7 +9,7 @@ from pages.logout_page import LogoutPage
 from pages.search_results_page import SearchResultsPage
 from pages.product_page import ProductPage
 from config import Config
-from utilities.random_data_util import RandomDataUtil
+from Utilities.random_data_util import RandomDataUtil
 from playwright.sync_api import expect
 
 @pytest.mark.end_to_end
